@@ -2,4 +2,4 @@
 
 Ryerson 2017 lab
 
-Lab guide, code and resulting data can be found inside
+Lab guide, MATLAB code, data files and resulting data can be found inside
